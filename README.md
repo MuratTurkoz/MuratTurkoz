@@ -1,57 +1,116 @@
-<h1 align="left">Murat Türköz</h1>
+# Murat Türköz
 
-###
+Mathematics Teacher • Unity Developer • AI App Builder  
 
-<h2 align="left">About me</h2>
+I build mobile apps and games focused on productivity, education and simple gameplay mechanics.
 
-###
+---
 
-<p align="left">🎮 Unity Game Developer <br>Hello, I'm Murat Türköz, a dedicated Unity game developer..<br>🕹️ My Expertise:<br>- Math Teacher<br>- Web Development<br>- Unity3D and C# Development<br>💬 Let's Connect:<br>I'm always open to collaborating on exciting game projects or discussing all things related to game development and technology.<br><br>🎮 Happy game!<br>🎮 Happy bug!</p>
+# 📱 Mobile Apps & Games
 
-###
+## Penguide
 
-<h2 align="left">I code with</h2>
+AI powered study companion designed to help students build consistent study habits.
 
-###
+### Features
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-</div>
+- Pomodoro focus timer  
+- Daily question tracker  
+- Study streak system  
+- Weekly statistics  
+- On-device AI flashcards and quizzes (Apple Foundation Models)
 
-###
+### Download
 
-<img src="https://raw.githubusercontent.com/MuratTurkoz/MuratTurkoz/output/snake.svg" alt="Snake animation" />
+App Store  
+https://apps.apple.com/tr/app/penguide/id6758147901
 
-###
+Google Play  
+https://play.google.com/store/apps/details?id=com.penguide.app
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuratTurkoz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuratTurkoz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+### Tech
 
-###
+React Native  
+Apple Foundation Models  
+On-device AI
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@trkz.murat" alt="Layout with last medium posts"  />
-</div>
+---
 
-###
+## Traffic Helper
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/muratturkoz/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UCPNv1I8VjjKoBxrARjpzkug" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-</div>
+A simple traffic utility application designed to help users navigate traffic related information.
 
-###
+### Download
+
+App Store  
+https://apps.apple.com/tr/app/traffic-helper/id6502991135
+
+Google Play  
+https://play.google.com/store/apps/details?id=com.MucodedGameStudio.TrafficHelper
+
+### Tech
+
+Unity  
+Mobile utility application
+
+---
+
+## Rolling Colorful Ball
+
+A casual mobile arcade game where players control a colorful rolling ball and navigate through obstacles.
+
+### Download
+
+App Store  
+https://apps.apple.com/tr/app/rolling-colorful-ball/id6475161667
+
+Google Play  
+https://play.google.com/store/apps/details?id=com.MucodedGameStudio.RollingColorfulBall
+
+### Tech
+
+Unity  
+Casual mobile game mechanics
+
+---
+
+## Jump Win
+
+A simple jumping arcade game focused on timing and reaction.
+
+### Download
+
+Google Play  
+https://play.google.com/store/apps/details?id=com.MucodedGameStudio.JumpWin
+
+### Tech
+
+Unity  
+Arcade gameplay mechanics
+
+---
+
+# 🧠 Areas of Interest
+
+- Gamification
+- AI powered productivity tools
+- Mobile learning apps
+- Unity game development
+- On-device AI
+
+---
+
+# 🛠 Tech Stack
+
+- Unity (C#)
+- React Native
+- JavaScript / TypeScript
+- Supabase
+- AI / LLM integrations
+
+---
+
+# 🌐 Links
+
+GitHub  
+https://github.com/MuratTurkoz
