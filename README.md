@@ -1,106 +1,65 @@
-# Murat Türköz
+# Hi, I'm Murat Türköz 👋
 
-Mathematics Teacher • Unity Developer • AI App Builder  
+**Mathematics Teacher · Unity Developer · AI App Builder**
 
-I build mobile apps and games focused on productivity, education and simple gameplay mechanics.
-
----
-
-# 📱 Mobile Apps & Games
-
-## Penguide
-
-AI powered study companion designed to help students build consistent study habits.
-
-### Features
-
-- Pomodoro focus timer  
-- Daily question tracker  
-- Study streak system  
-- Weekly statistics  
-- On-device AI flashcards and quizzes (Apple Foundation Models)
-
-### Download
-
-App Store  
-https://apps.apple.com/tr/app/penguide/id6758147901
-
-Google Play  
-https://play.google.com/store/apps/details?id=com.penguide.app
-
-### Tech
-
-React Native  
-Apple Foundation Models  
-On-device AI
+I build mobile apps and small games focused on productivity, education and simple gameplay mechanics.
 
 ---
 
-## Traffic Helper
+## 📱 Apps & Games
 
-A simple traffic utility application designed to help users navigate traffic related information.
+### 🐧 Penguide
+> AI-powered study companion designed to help students build consistent study habits.
 
-### Download
+- 🍅 Pomodoro focus timer
+- 📊 Daily question tracker & weekly statistics
+- 🔥 Study streak system
+- 🤖 On-device AI flashcards and quizzes (Apple Foundation Models)
 
-App Store  
-https://apps.apple.com/tr/app/traffic-helper/id6502991135
+[App Store](https://apps.apple.com/tr/app/penguide/id6758147901) · [Google Play](https://play.google.com/store/apps/details?id=com.penguide.app)
 
-Google Play  
-https://play.google.com/store/apps/details?id=com.MucodedGameStudio.TrafficHelper
-
-### Tech
-
-Unity  
-Mobile utility application
+`React Native` `Apple Foundation Models` `On-device AI`
 
 ---
 
-## Rolling Colorful Ball
+### 🚦 Traffic Helper
+> A simple traffic utility application designed to help users navigate traffic-related information.
 
-A casual mobile arcade game where players control a colorful rolling ball and navigate through obstacles.
+[App Store](https://apps.apple.com/tr/app/traffic-helper/id6502991135) · [Google Play](https://play.google.com/store/apps/details?id=com.MucodedGameStudio.TrafficHelper)
 
-### Download
-
-App Store  
-https://apps.apple.com/tr/app/rolling-colorful-ball/id6475161667
-
-Google Play  
-https://play.google.com/store/apps/details?id=com.MucodedGameStudio.RollingColorfulBall
-
-### Tech
-
-Unity  
-Casual mobile game mechanics
+`Unity` `Mobile`
 
 ---
 
-## Jump Win
+### 🎱 Rolling Colorful Ball
+> A casual mobile arcade game where players control a colorful rolling ball and navigate through obstacles.
 
-A simple jumping arcade game focused on timing and reaction.
+[App Store](https://apps.apple.com/tr/app/rolling-colorful-ball/id6475161667) · [Google Play](https://play.google.com/store/apps/details?id=com.MucodedGameStudio.RollingColorfulBall)
 
-### Download
-
-Google Play  
-https://play.google.com/store/apps/details?id=com.MucodedGameStudio.JumpWin
-
-### Tech
-
-Unity  
-Arcade gameplay mechanics
+`Unity` `Casual Game`
 
 ---
 
-# 🧠 Areas of Interest
+### 🏆 Jump Win
+> A simple jumping arcade game focused on timing and reaction.
 
-- Gamification
-- AI powered productivity tools
-- Mobile learning apps
-- Unity game development
-- On-device AI
+[Google Play](https://play.google.com/store/apps/details?id=com.MucodedGameStudio.JumpWin)
+
+`Unity` `Casual Game`
 
 ---
 
-# 🛠 Tech Stack
+## 🧠 Areas of Interest
+
+- 🎮 Gamification
+- 🤖 AI-powered productivity tools
+- 📚 Mobile learning apps
+- 🕹️ Unity game development
+- 📱 On-device AI
+
+---
+
+## 🛠 Tech Stack
 
 - Unity (C#)
 - React Native
@@ -110,7 +69,7 @@ Arcade gameplay mechanics
 
 ---
 
-# 🌐 Links
+## 🌐 Connect
 
-GitHub  
-https://github.com/MuratTurkoz
+- [LinkedIn](https://www.linkedin.com/in/muratturkoz/)
+- [YouTube](https://www.youtube.com/channel/UCPNv1I8VjjKoBxrARjpzkug)
