@@ -1,5 +1,4 @@
 # Hi, I'm Murat Türköz 👋
-
 **Mathematics Teacher · Unity Developer · AI App Builder**
 
 I build mobile apps and small games focused on productivity, education and simple gameplay mechanics.
@@ -7,6 +6,20 @@ I build mobile apps and small games focused on productivity, education and simpl
 ---
 
 ## 📱 Apps & Games
+
+### ✅ DoneToday Counter
+> A Mac menu bar app that helps you build daily momentum with fast, one-click counters. Log completed tasks, focus time, and notes as you work — private by design, local by default.
+
+- ⚡ One-click counters — zero friction
+- 🎨 Glass, Neon & Skeuomorphic themes
+- 🔒 Fully local — no data collected
+- 📊 Real-time daily progress view
+
+[App Store](https://apps.apple.com/us/app/donetoday-counter/id6759379485)
+
+`Swift` `macOS` `Menu Bar App`
+
+---
 
 ### 🐧 Penguide
 > AI-powered study companion designed to help students build consistent study habits.
@@ -50,7 +63,6 @@ I build mobile apps and small games focused on productivity, education and simpl
 ---
 
 ## 🧠 Areas of Interest
-
 - 🎮 Gamification
 - 🤖 AI-powered productivity tools
 - 📚 Mobile learning apps
@@ -60,7 +72,7 @@ I build mobile apps and small games focused on productivity, education and simpl
 ---
 
 ## 🛠 Tech Stack
-
+- Swift / SwiftUI
 - Unity (C#)
 - React Native
 - JavaScript / TypeScript
@@ -70,6 +82,5 @@ I build mobile apps and small games focused on productivity, education and simpl
 ---
 
 ## 🌐 Connect
-
 - [LinkedIn](https://www.linkedin.com/in/muratturkoz/)
 - [YouTube](https://www.youtube.com/channel/UCPNv1I8VjjKoBxrARjpzkug)
