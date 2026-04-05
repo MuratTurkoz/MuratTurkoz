@@ -7,6 +7,21 @@ I build mobile apps and small games focused on productivity, education and simpl
 
 ## 📱 Apps & Games
 
+### 🤖 AIGuide
+> A native AI comparison app that lets you ask once, compare multiple AI answers side by side, and use a judge model to pick the best response.
+
+- 🔍 Side-by-side AI answer comparison
+- ⚖️ Judge AI with winner selection and reasoning
+- 🔐 Bring Your Own API Key with secure local storage
+- 💻 Native SwiftUI app for macOS and iOS
+- 🍎 Apple Foundation Models support on compatible devices
+
+[GitHub](https://github.com/MuratTurkoz/AIGuideApp)
+
+`Swift` `SwiftUI` `macOS` `iOS` `AI`
+
+---
+
 ### ✅ DoneToday Counter
 > A Mac menu bar app that helps you build daily momentum with fast, one-click counters. Log completed tasks, focus time, and notes as you work — private by design, local by default.
 
