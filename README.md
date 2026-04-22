@@ -16,7 +16,7 @@ I build mobile apps and small games focused on productivity, education and simpl
 - 💻 Native SwiftUI app for macOS and iOS
 - 🍎 Apple Foundation Models support on compatible devices
 
-[GitHub](https://github.com/MuratTurkoz/AIGuideApp)
+[Apple Store](https://apps.apple.com/us/app/aiguide-app/id6760544572)
 
 `Swift` `SwiftUI` `macOS` `iOS` `AI`
 
